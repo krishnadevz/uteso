@@ -1,3 +1,7 @@
+👉[Live Preview OF this Project🔥](https://uuuiopg.firebaseapp.com)<br>
+👉[Github Repo Fork/⭐/Clone it](https://github.com/krishnadevz/uteso)<br>
+👉[Article On how to create this Portfolio](https://dev.to/krishnakakade/unique-basic-portfolio-in-reactjs-within-hour-using-reactjs-basic-concepts-14kb)
+
 # Working View Of this FunPortfolio card using reactjs bootstrap library 
 <img src="https://github.com/krishnadevz/ReactThings/blob/master/funcard.gif" alt="one">
 
