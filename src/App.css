@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.github{
+padding: 10px;
+position: relative;
+bottom: 0;
+font-size: 1.5em;
+display: grid;
+
+
+
+}
+.github:hover{
+	color:grey;
+}
+
+
+
+@media (min-width: 576px) {
+	html {
+		font-size: 14px;
+	}
+}
+
+@media (min-width: 768px) {
+	html {
+		font-size: 16px;
+	}
+}
+
+@media (min-width: 992px) {
+	html {
+		font-size: 18px;
+	}
+}
+
+@media (min-width: 1200px) {
+	html {
+		font-size: 20px;
+	}
+}
+
+
+@media only screen and (max-width: 320px) {
+  /* styles for narrow screens */
+}
+
+
+
+
+
+
+
+.btn{
+  font-size: 10px;
+}
+.projects{
+
+ margin-left: auto;
+margin-right: auto;
+align-items: center;
+justify-content: center;
+display: grid;
+
+}
