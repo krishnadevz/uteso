@@ -2,7 +2,7 @@
 👉[Github Repo Fork/⭐/Clone it](https://github.com/krishnadevz/uteso)<br>
 👉[Article On how to create this Portfolio](https://dev.to/krishnakakade/unique-basic-portfolio-in-reactjs-within-hour-using-reactjs-basic-concepts-14kb)
 
-# Working View Of this FunPortfolio card using reactjs bootstrap library 
+# Working View Of this FunPortfolio card using reactjs bootstrap library ⚠projects and contact section is not included in GIF
 <img src="https://github.com/krishnadevz/ReactThings/blob/master/funcard.gif" alt="one">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
