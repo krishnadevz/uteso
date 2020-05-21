@@ -7,14 +7,15 @@ function Jumborton() {
     <div className="App">
     <Jumbotron>
 <span><h1>Hello, I'm Krishna!🐱‍💻⚙</h1></span>
+    <img src="https://github.com/krishnadevz/uteso/blob/master/imageonline-co-resizedimage.jpg"width="460" height="345" class="center" alt="krishna">
 <span><p className="about">
 I'm Third Year CSE undergrad student My Passion is For Computers in all kind of Perspectives .I am Learning FullStack Developer(MERN🧱) 
 and i also like to Contribute opensource projects 👉🔧.I buid ⚙ things/Projects related to Web Devlopment/FrameWorks(React❤)👉On
 <a href="https://github.com/krishnadevz" target="_blank" rel="noopener noreferrer" ><Button variant="dark" className="btn">Github</Button></a>
-I also write things about web Development and reactjs Crossed 7.5K+Views👉On 
+I also write things about web Development and reactjs Crossed 14K+Views👉On 
 <a href="https://dev.to/krishnakakade" target="_blank"><Button variant="dark" className="btn">Dev.to</Button></a>
 Connect me Professionally 👉On<a href="https://www.linkedin.com/in/krishna-kakade-014a70149/" rel="noopener noreferrer"  target="_blank"><Button variant="dark" className="btn">LinkedIn</Button></a>
-I Crossed 9.1K Views👉On<a href="https://www.quora.com/profile/Krishna-Kakade-2" rel="noopener noreferrer" target="_blank"><Button variant="dark" className="btn">Quora</Button></a>
+I Crossed 10K Views👉On<a href="https://www.quora.com/profile/Krishna-Kakade-2" rel="noopener noreferrer" target="_blank"><Button variant="dark" className="btn">Quora</Button></a>
 <b><br></br>
 .I Spend Most of My time With 💻🖱Thank You🐱‍🏍</b>
 🥛❤ <a href="https://www.twitter.com/krishnadevz" rel="noopener noreferrer" target="_blank"><Button variant="primary" className="btn">Twitter</Button></a>
